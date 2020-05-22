@@ -49,4 +49,5 @@ except:
 		c=a[i]
 		print(c['name'])
 print(Style.RESET_ALL)
+print('~lucifer')
 	
