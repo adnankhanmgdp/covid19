@@ -5,7 +5,7 @@ try:
 	from colorama import Fore, Style, Back
 except ImportError:
 	print("INSTALLING DEPENDENCIES...")
-	os.system('python -m pip install -r requiremnets.txt')
+	os.system('python -m pip install -r requirements.txt')
 
 from covid import Covid
 from colorama import Fore, Style, Back
